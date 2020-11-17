@@ -10,4 +10,4 @@
 [Facebook] (https://www.facebook.com/nguyen.richard.npng)
 
 ####  © 2020 by nguyen.richard
-![My avt] (\b.jpg)
+![My avt] (/b.jpg)
