@@ -10,4 +10,4 @@
 [Facebook] (https://www.facebook.com/nguyen.richard.npng)
 
 ####  © 2020 by nguyen.richard
-![My avt] (https://github.com/richardnguyen2504/math-util/b.jpg)
+![My avt] (https://github.com/richardnguyen2504/math-util/blob/main/b.jpg)
