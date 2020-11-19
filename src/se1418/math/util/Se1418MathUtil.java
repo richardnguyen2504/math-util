@@ -23,25 +23,26 @@ public class Se1418MathUtil {
             long result = MathUtility.getFactorial(-1);
             System.out.println("Result: " + result);
             //expected: 120 ,   actual: 
+            System.out.println("CI for today");
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
     }
 
 }
-        //Code viết ra thì Developer phải test trước 
-        //có vài hình thức test code khác nhau
-    //1. TDD,Test Driver Development
-        //Viết dàn khung của hàm getFactorial(int n);
-        //Sau đó dựng hàm test()
-        //Chạy thử coi xanh đỏ, đó nghĩa là lỗi, xanh nghĩa là ổn
-        //cứ iên tục xanh đỏ như thế trong quá trình viết code
-        //và sửa code, người ta gọi là lập trình hướng theo thỏa mãn
-        //việc test, TDD
-    //2. sout(hàm kèm data) để coi kết quả ra sao, có đúng như mình kì vọng
-        //nó phải trả về như thế hay không ==> xem kết quả test = mắt
-    //3. JoptionPane của bên javadesktop để popup kết quả lên màn hình
-        //vẫn xem = mắt
-    //4. Viết 1 trang web gọi hàm xử lí ...,hao sức quá
+//Code viết ra thì Developer phải test trước 
+//có vài hình thức test code khác nhau
+//1. TDD,Test Driver Development
+//Viết dàn khung của hàm getFactorial(int n);
+//Sau đó dựng hàm test()
+//Chạy thử coi xanh đỏ, đó nghĩa là lỗi, xanh nghĩa là ổn
+//cứ iên tục xanh đỏ như thế trong quá trình viết code
+//và sửa code, người ta gọi là lập trình hướng theo thỏa mãn
+//việc test, TDD
+//2. sout(hàm kèm data) để coi kết quả ra sao, có đúng như mình kì vọng
+//nó phải trả về như thế hay không ==> xem kết quả test = mắt
+//3. JoptionPane của bên javadesktop để popup kết quả lên màn hình
+//vẫn xem = mắt
+//4. Viết 1 trang web gọi hàm xử lí ...,hao sức quá
 
     //ta chơi cách 1 và 2
